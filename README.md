@@ -15,3 +15,7 @@ Requires:
 Mondule Manager v2.6.25
 
 Raster Prop Monitor v0.27.0
+
+Recommended:
+
+SSTULabs v0.5.32.121-adds Apollo, Orion, Soyuz, and Progress command modules plus new docking ports
